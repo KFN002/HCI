@@ -1,0 +1,37 @@
+[
+  {
+    "file": "charts/metrics.svg",
+    "png": "charts/metrics.png",
+    "title": "Four metric comparisons",
+    "caption": "Independent scales; n/N = scored / eligible. Epistemic means describe only the scored subset; unresolved answers can include errors and correct paraphrases. ER is a filler parser proxy.",
+    "data": "charts/chart_data.csv"
+  },
+  {
+    "file": "charts/coverage.svg",
+    "png": "charts/coverage.png",
+    "title": "Coverage and missingness",
+    "caption": "Grey remainder = unscored eligible attempts, including errors, limits, or unresolved judgments. Read this before conditional means.",
+    "data": "charts/chart_data.csv"
+  },
+  {
+    "file": "charts/negative_categories.svg",
+    "png": "charts/negative_categories.png",
+    "title": "Negative adherence by category",
+    "caption": "Only declared prohibitions are checked; grey cells have no scored replies. n/N exposes measurement coverage.",
+    "data": "charts/chart_data.csv"
+  },
+  {
+    "file": "charts/repeat_variance.svg",
+    "png": "charts/repeat_variance.png",
+    "title": "Repeated-prompt variance",
+    "caption": "Mean within-prompt sample variance across prompts with at least two scored repeats. Low variance measures stability, not correctness; no confidence intervals are implied.",
+    "data": "charts/chart_data.csv"
+  },
+  {
+    "file": "charts/latency.svg",
+    "png": "charts/latency.png",
+    "title": "Observed response latency",
+    "caption": "Box = interquartile range; center = median; whiskers extend to 1.5 IQR. Different sizes/default thinking make this unequal-compute timing evidence.",
+    "data": "charts/latency_data.csv"
+  }
+]

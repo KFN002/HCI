@@ -1,0 +1,26 @@
+{
+  "models": [
+    "gemma3:4b",
+    "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M"
+  ],
+  "planned": 108,
+  "recorded": 108,
+  "errors": 0,
+  "truncations": 0,
+  "duplicate_cells": 0,
+  "source_hashes_verified": true,
+  "owned_servers_stopped": true,
+  "chart_count": 5,
+  "chart_renderer": {
+    "available": true,
+    "renderer": "matplotlib",
+    "version": "3.11.2"
+  },
+  "html_ids_unique": true,
+  "html_internal_links_valid": true,
+  "full_response_details": 108,
+  "blinded_review_rows": 216,
+  "offline_tests_passed": 77,
+  "independent_human_review": "pending"
+}

@@ -1,0 +1,2 @@
+# Only graph generation needs a package; inference and metrics use the standard library.
+matplotlib>=3.11

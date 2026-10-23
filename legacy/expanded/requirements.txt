@@ -1,0 +1,2 @@
+# Python 3.10+ standard library only; no pip dependencies.
+# Ollama must already be installed and running for metadata discovery or inference.

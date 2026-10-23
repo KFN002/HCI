@@ -1,0 +1,30 @@
+{
+  "status": "complete",
+  "planned_jobs": 36,
+  "completed_jobs": 36,
+  "created_at": "2026-10-23T12:15:00.993225+00:00",
+  "config": {
+    "repeats": 3,
+    "temperature": 0.5,
+    "num_predict": 512,
+    "num_ctx": 4096,
+    "seed": 20261021,
+    "condition": "baseline",
+    "quick": true,
+    "prompt_count": 12,
+    "suite_sha256": "ae58e3a0c61972d5a9a3bc38805e4b62b26799bd6fb54b79c6088eca1e249be7",
+    "scorer_version": "3.0-simple",
+    "ollama_version": "0.32.0",
+    "models": [
+      {
+        "name": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+        "digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282"
+      }
+    ],
+    "source_sha256": {
+      "evaluate.py": "d19a48742772ac1d44d5021a6414e8aeaa85d368217ab3f9a5b854e78a45053c",
+      "metrics.py": "dfcbbd4ca786f8501ea41a33664a6fccd9b39c979ef0efa178320d23265eb79f",
+      "backends.py": "811129d1e5870b18c7df319da55a71d1c449406c351582808fd122c74984e21b"
+    }
+  }
+}

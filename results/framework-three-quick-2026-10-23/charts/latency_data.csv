@@ -1,0 +1,109 @@
+row_id,model,label,seconds,truncated
+d8299a6890:e54488c5e0c709daa1e2a21d,gemma3:4b,Gemma3 4B,0.5429982910000035,False
+d8299a6890:ab3022c023e50fbfcf96be5e,gemma3:4b,Gemma3 4B,0.5653310000000147,False
+d8299a6890:5cb4f66df7695a0abba42548,gemma3:4b,Gemma3 4B,0.48576041699993766,False
+d8299a6890:7a0e501d6c05ad616e7f0b3c,gemma3:4b,Gemma3 4B,0.7294986669999162,False
+d8299a6890:d90443be081403606daadef3,gemma3:4b,Gemma3 4B,0.7849114160001136,False
+d8299a6890:f656cc5d4a3600ba8174efb7,gemma3:4b,Gemma3 4B,0.960351042000184,False
+d8299a6890:9bbfd5ba75daa13081f71d3c,gemma3:4b,Gemma3 4B,1.4134062079999694,False
+d8299a6890:a8006292c6dbc9900375cd80,gemma3:4b,Gemma3 4B,0.789111832999879,False
+d8299a6890:f8b922e6b16610b3ae895d34,gemma3:4b,Gemma3 4B,0.4167155830000411,False
+d8299a6890:8b85a29a5eab133bd42fec3d,gemma3:4b,Gemma3 4B,1.1679705839999315,False
+d8299a6890:204cb2ed9b1c633c011df6e9,gemma3:4b,Gemma3 4B,0.4134502499998689,False
+d8299a6890:6b48c3edf83d921887fbb6f9,gemma3:4b,Gemma3 4B,0.6867016670000794,False
+d8299a6890:995a8da08e5f08dbb0fdb413,gemma3:4b,Gemma3 4B,0.4935217920001378,False
+d8299a6890:cb8df4388fe5f3a9e3aeaa29,gemma3:4b,Gemma3 4B,0.5067300000000614,False
+d8299a6890:37cf00a1bddb6ac893f8b98e,gemma3:4b,Gemma3 4B,0.6744167500000913,False
+d8299a6890:665bde628d2d0cf63b5f9eb4,gemma3:4b,Gemma3 4B,0.5386335000000599,False
+d8299a6890:a8e62faa6b2d147b753e4a6b,gemma3:4b,Gemma3 4B,0.7559740829999555,False
+d8299a6890:50da3cf259355e92639e5696,gemma3:4b,Gemma3 4B,0.7136939580000217,False
+d8299a6890:2835e63e60b196820a7684da,gemma3:4b,Gemma3 4B,0.6119144580000011,False
+d8299a6890:4afe3d0b818f59d16cd54ac9,gemma3:4b,Gemma3 4B,0.425238833000094,False
+d8299a6890:77e602f8affcb0cd36625fe4,gemma3:4b,Gemma3 4B,0.5071918749999895,False
+d8299a6890:ed93dbaee5d2bcf99e5ab030,gemma3:4b,Gemma3 4B,0.6746201670000573,False
+d8299a6890:5c71615e0b7647baa8244449,gemma3:4b,Gemma3 4B,0.7302777500001412,False
+d8299a6890:4de4c2e5e236de67f91bc166,gemma3:4b,Gemma3 4B,0.6713626670000394,False
+d8299a6890:f70b00b45e38f2b35789286c,gemma3:4b,Gemma3 4B,1.8306818339999609,False
+d8299a6890:f93b2f79113678d0b01fd3c2,gemma3:4b,Gemma3 4B,0.6721599579998383,False
+d8299a6890:fe9a258d1792abaebb8c1f57,gemma3:4b,Gemma3 4B,1.6352539160000106,False
+d8299a6890:0954523fb98a142d521039d4,gemma3:4b,Gemma3 4B,1.3582590000000891,False
+d8299a6890:c98967cab9dbc5dac337500f,gemma3:4b,Gemma3 4B,0.6765903749999325,False
+d8299a6890:c944a8ebfdaabdc61b8a169b,gemma3:4b,Gemma3 4B,0.4725668329999735,False
+d8299a6890:7c17649c1b8a63c4f5acb7ed,gemma3:4b,Gemma3 4B,0.5135588749999442,False
+d8299a6890:c6912bb60a832d8dd6d9fc05,gemma3:4b,Gemma3 4B,1.6218330829999559,False
+d8299a6890:d1fa9581b20729531ccf09fd,gemma3:4b,Gemma3 4B,0.7960133340000084,False
+d8299a6890:49c347ab4bc63d7f3933f0cf,gemma3:4b,Gemma3 4B,0.7557759170001646,False
+d8299a6890:8a0431962b8a5d49d7c84f31,gemma3:4b,Gemma3 4B,0.7178109169999516,False
+d8299a6890:bc342cc710c3d9a833fe9223,gemma3:4b,Gemma3 4B,0.8153952499999377,False
+a23eb2c049:a7fcae1a546e677ec44a467d,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,4.528879957999834,False
+a23eb2c049:82e2fa960cab0871963d0b68,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.5106947090000631,False
+a23eb2c049:b068eed9f021b40bd46b187b,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.4957679999999982,False
+a23eb2c049:b1b8174678f2c16e24008f6e,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,1.2999405409998417,False
+a23eb2c049:2457a4d94b990d22388ee5a5,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,14.962432332999924,False
+a23eb2c049:995b1efe35cc6f11a7965215,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.716730957999971,False
+a23eb2c049:a5c3cbd54a0791781d59384a,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.870819707999999,False
+a23eb2c049:c20877ab047ef44d5b96f964,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,1.0785140410000622,False
+a23eb2c049:9e96c564f50b12bf5a7eadac,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.996770250000054,False
+a23eb2c049:e505bd2a3dcb42ff00665886,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.7914172079999844,False
+a23eb2c049:a1326dfdb9f25b237e30a093,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.2627097920001233,False
+a23eb2c049:2a5b3f686b9db8c007d98f42,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,4.315211040999884,False
+a23eb2c049:16b9b5f0e89d95fd69cbe5c4,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.4658108329999777,False
+a23eb2c049:e02433372250ba16daa9a565,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.1764079579997997,False
+a23eb2c049:726d2176f33a2096ac8ae9c4,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.5661083750001126,False
+a23eb2c049:c65f6d485fb92ae387b10fe4,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.23321508299977722,False
+a23eb2c049:597fd9ab9bf7928c7be4b50c,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,6.104897666999932,False
+a23eb2c049:4eae396410519d03bddbdb50,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.604423375000124,False
+a23eb2c049:c00d8ebd4ff1a7deaeac7d34,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.38232370899982,False
+a23eb2c049:89ab63d446671c64c2f7eaab,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.183116958000028,False
+a23eb2c049:cd72f323d146b9484095dbdb,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.3171740000000227,False
+a23eb2c049:199df4a75048d26af24e6d20,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.29470162500001607,False
+a23eb2c049:abff94d3e76a9f7f5c8e7cf4,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.5179333340001904,False
+a23eb2c049:9d109697665925375fe304a9,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,3.4150481660001333,False
+a23eb2c049:673bac594641684dfb01b9c1,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.099692250000089,False
+a23eb2c049:163abe18b965279c02b82354,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.1853977920000034,False
+a23eb2c049:f01626ee5895cb6994d6327a,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.17710262500008866,False
+a23eb2c049:997928a4d3fda533a4322443,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.9243219160000535,False
+a23eb2c049:852592351a1cd868af7cc209,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.4297316250001586,False
+a23eb2c049:07a52519784cd94d0a7e8b93,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.3185679580001306,False
+a23eb2c049:6d78fa37e90c24501a197bd9,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,1.1869602500000838,False
+a23eb2c049:2e3514da2779bb5d68612cd5,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.9687627079999857,False
+a23eb2c049:6111222ce5ddb123005dc7b4,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.725246375000097,False
+a23eb2c049:907ec35b33a303430395c042,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.5319428749999133,False
+a23eb2c049:64e3d5748c9b08f106a3682a,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,0.8245547910000823,False
+a23eb2c049:10b052e4b9ed16031c3d5362,hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M,Qwen2.5-VL Caption 7B,2.7662836249999145,False
+a4bafccf27:dffb90ad264438f72bea2777,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,32.674954792000335,False
+a4bafccf27:8a3e3a6e1a9a16fd7572634d,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,15.506121542000074,False
+a4bafccf27:b1d1704f689b6994137a00ca,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,51.305720917000144,False
+a4bafccf27:557d2fb0b2d4bfe4dbed668c,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,17.06943304100014,False
+a4bafccf27:bed22b398f8cf10e02c35ce3,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,21.314870665999933,False
+a4bafccf27:8459ebc5774f4dcd4dc2ad42,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,33.78931191699985,False
+a4bafccf27:03ed46213c68bc746cc8d81f,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,26.052038750000065,False
+a4bafccf27:30717214b80209f98ca9683e,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,12.703094125000007,False
+a4bafccf27:c495d134d42dd5bbe29026df,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,18.500328875000378,False
+a4bafccf27:b644b8ea70326ae3c75b53dd,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,13.351966125000217,False
+a4bafccf27:41fd22b8b5ccd1434acb602e,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,37.00696300000027,False
+a4bafccf27:12604893ecf9a5a9299bfc08,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,10.501435499999843,False
+a4bafccf27:a4ce24e7dd99b54934980072,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,11.73057454200034,False
+a4bafccf27:050a4888690aaf594aa2f7f6,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,14.075052833999962,False
+a4bafccf27:66277a848493669c6c90a949,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,8.572933708000164,False
+a4bafccf27:aca6027ade9085d29110cd78,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,10.463318541000262,False
+a4bafccf27:5649da868364bab291fcc88c,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,14.151940332999857,False
+a4bafccf27:d725a773ff0b71d85609331e,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,35.059046124999895,False
+a4bafccf27:908c0ef970abb341c9946b2e,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,19.337035290999665,False
+a4bafccf27:15ef34a4dee32289f90371a2,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,29.772629042000062,False
+a4bafccf27:4b8cb91cf47d5acdb8ff810b,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,34.487753874999726,False
+a4bafccf27:faa50159c77a5ac3c152c280,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,24.592138458000136,False
+a4bafccf27:97b8dd3ab4e26b9a7fa362b6,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,38.2163168750003,False
+a4bafccf27:a6fa91589e306204c7d82f06,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,19.60063858300009,False
+a4bafccf27:92b6c3d484b0bd8a00b2368d,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,30.146440083000016,False
+a4bafccf27:7019497e9c240e0e43abf504,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,18.176273459000186,False
+a4bafccf27:47cb6903575a3866a2a774b0,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,15.81637550000005,False
+a4bafccf27:388dbe27e2a5fb2f298840f1,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,12.903808749999826,False
+a4bafccf27:a0fc7bfa8e07b1e134bc9dc9,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,22.94231754099974,False
+a4bafccf27:2e5f58e83c1e9118399862e8,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,38.04958554199993,False
+a4bafccf27:cdca0b58086aeadd9a2d49b1,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,14.84865362499977,False
+a4bafccf27:e4d730cac51802678e6d5e32,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,29.48885937499972,False
+a4bafccf27:2bf6ac6de530f072afec68d2,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,13.926107540999965,False
+a4bafccf27:3f6b8f34f0438af5bc06143f,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,17.77127237500008,False
+a4bafccf27:996a193b52d89a8324a65447,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,24.523319082999933,False
+a4bafccf27:397a207c65bea7b7b6ce64c5,hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M,Qwen3.8 27B,12.934881624999889,False

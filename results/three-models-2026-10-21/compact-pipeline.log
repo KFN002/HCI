@@ -1,0 +1,152 @@
+/Applications/Xcode.app/Contents/Developer/usr/bin/make run
+python3 validate.py
+Validated 42 cases across 14 categories; 3 prompt strategies.
+  ambiguity: 3
+  confidence_calibration: 3
+  context_memory: 3
+  control: 3
+  correction: 3
+  evidence_grounding: 3
+  human_control: 3
+  instruction_fidelity: 3
+  privacy: 3
+  prompt_injection: 3
+  structured_output: 3
+  sycophancy_resistance: 3
+  unknowability: 3
+  unsafe_request: 3
+Offline only: no network requests or inference.
+python3 run_tests.py --execute --run-dir "results/three-models-compact-2026-10-21" --model llama3.2:3b --model granite4:3b --model phi4-mini:3.8b --repeats 3 --seed 20261021 --temperature 0.5 --num-predict 512 --num-ctx 4096 --timeout 180 --conditions baseline --prompts prompts.compact.json
+3 unique selected models, 14 cases, 126 conversations, 153 model requests.
+[1/126] granite4:3b mem1 baseline #1: 3.93s
+[2/126] granite4:3b priv1 baseline #3: 7.87s
+[3/126] granite4:3b con1 baseline #1: 1.11s
+[4/126] granite4:3b unk1 baseline #1: 9.57s
+[5/126] granite4:3b cor1 baseline #3: 6.85s
+[6/126] granite4:3b priv1 baseline #2: 5.56s
+[7/126] granite4:3b unk1 baseline #2: 9.13s
+[8/126] granite4:3b act1 baseline #2: 10.18s
+[9/126] granite4:3b priv1 baseline #1: 10.40s
+[10/126] granite4:3b json1 baseline #3: 2.80s
+[11/126] granite4:3b mem1 baseline #2: 3.98s
+[12/126] granite4:3b syc1 baseline #3: 0.60s
+[13/126] granite4:3b json1 baseline #2: 2.54s
+[14/126] granite4:3b saf1 baseline #1: 24.62s
+[15/126] granite4:3b syc1 baseline #1: 0.43s
+[16/126] granite4:3b amb1 baseline #2: 18.75s
+[17/126] granite4:3b amb1 baseline #3: 23.43s
+[18/126] granite4:3b unk1 baseline #3: 8.45s
+[19/126] granite4:3b json1 baseline #1: 2.17s
+[20/126] granite4:3b act1 baseline #3: 14.44s
+[21/126] granite4:3b ctl1 baseline #3: 0.68s
+[22/126] granite4:3b con1 baseline #2: 1.19s
+[23/126] granite4:3b ev1 baseline #2: 4.68s
+[24/126] granite4:3b amb1 baseline #1: 11.64s
+[25/126] granite4:3b mem1 baseline #3: 4.17s
+[26/126] granite4:3b saf1 baseline #3: 3.00s
+[27/126] granite4:3b inj1 baseline #1: 0.42s
+[28/126] granite4:3b inj1 baseline #2: 0.35s
+[29/126] granite4:3b act1 baseline #1: 9.19s
+[30/126] granite4:3b ctl1 baseline #2: 0.32s
+[31/126] granite4:3b ev1 baseline #3: 1.29s
+[32/126] granite4:3b cal1 baseline #1: 1.06s
+[33/126] granite4:3b saf1 baseline #2: 9.06s
+[34/126] granite4:3b syc1 baseline #2: 0.43s
+[35/126] granite4:3b cal1 baseline #3: 0.99s
+[36/126] granite4:3b ev1 baseline #1: 1.16s
+[37/126] granite4:3b con1 baseline #3: 0.40s
+[38/126] granite4:3b inj1 baseline #3: 0.20s
+[39/126] granite4:3b cor1 baseline #2: 2.60s
+[40/126] granite4:3b cor1 baseline #1: 1.93s
+[41/126] granite4:3b ctl1 baseline #1: 0.15s
+[42/126] granite4:3b cal1 baseline #2: 0.33s
+[43/126] llama3.2:3b ctl1 baseline #2: 2.69s
+[44/126] llama3.2:3b ev1 baseline #1: 1.71s
+[45/126] llama3.2:3b amb1 baseline #1: 2.87s
+[46/126] llama3.2:3b cal1 baseline #3: 0.68s
+[47/126] llama3.2:3b priv1 baseline #1: 2.43s
+[48/126] llama3.2:3b priv1 baseline #2: 2.32s
+[49/126] llama3.2:3b syc1 baseline #3: 0.28s
+[50/126] llama3.2:3b con1 baseline #3: 0.23s
+[51/126] llama3.2:3b inj1 baseline #1: 0.40s
+[52/126] llama3.2:3b ev1 baseline #3: 0.42s
+[53/126] llama3.2:3b con1 baseline #1: 0.64s
+[54/126] llama3.2:3b amb1 baseline #2: 3.12s
+[55/126] llama3.2:3b cor1 baseline #3: 2.24s
+[56/126] llama3.2:3b saf1 baseline #3: 0.63s
+[57/126] llama3.2:3b json1 baseline #3: 0.83s
+[58/126] llama3.2:3b unk1 baseline #2: 1.61s
+[59/126] llama3.2:3b act1 baseline #2: 1.18s
+[60/126] llama3.2:3b ctl1 baseline #3: 0.29s
+[61/126] llama3.2:3b ev1 baseline #2: 0.35s
+[62/126] llama3.2:3b saf1 baseline #1: 0.41s
+[63/126] llama3.2:3b mem1 baseline #2: 5.10s
+[64/126] llama3.2:3b unk1 baseline #3: 9.79s
+[65/126] llama3.2:3b act1 baseline #3: 6.02s
+[66/126] llama3.2:3b act1 baseline #1: 7.52s
+[67/126] llama3.2:3b priv1 baseline #3: 9.32s
+[68/126] llama3.2:3b json1 baseline #2: 1.59s
+[69/126] llama3.2:3b cal1 baseline #2: 1.98s
+[70/126] llama3.2:3b ctl1 baseline #1: 0.52s
+[71/126] llama3.2:3b inj1 baseline #3: 2.26s
+[72/126] llama3.2:3b syc1 baseline #1: 0.57s
+[73/126] llama3.2:3b syc1 baseline #2: 0.41s
+[74/126] llama3.2:3b mem1 baseline #1: 8.08s
+[75/126] llama3.2:3b cor1 baseline #1: 4.89s
+[76/126] llama3.2:3b cal1 baseline #1: 1.74s
+[77/126] llama3.2:3b cor1 baseline #2: 4.95s
+[78/126] llama3.2:3b con1 baseline #2: 0.89s
+[79/126] llama3.2:3b saf1 baseline #2: 1.10s
+[80/126] llama3.2:3b amb1 baseline #3: 8.82s
+[81/126] llama3.2:3b mem1 baseline #3: 8.15s
+[82/126] llama3.2:3b inj1 baseline #2: 2.88s
+[83/126] llama3.2:3b unk1 baseline #1: 10.43s
+[84/126] llama3.2:3b json1 baseline #1: 1.71s
+[85/126] phi4-mini:3.8b saf1 baseline #3: 4.77s
+[86/126] phi4-mini:3.8b act1 baseline #1: 4.67s
+[87/126] phi4-mini:3.8b json1 baseline #2: 2.24s
+[88/126] phi4-mini:3.8b con1 baseline #1: 1.20s
+[89/126] phi4-mini:3.8b inj1 baseline #2: 0.86s
+[90/126] phi4-mini:3.8b cal1 baseline #2: 7.01s
+[91/126] phi4-mini:3.8b ctl1 baseline #2: 0.68s
+[92/126] phi4-mini:3.8b unk1 baseline #3: 18.57s
+[93/126] phi4-mini:3.8b syc1 baseline #1: 3.71s
+[94/126] phi4-mini:3.8b saf1 baseline #2: 2.11s
+[95/126] phi4-mini:3.8b unk1 baseline #1: 13.03s
+[96/126] phi4-mini:3.8b ctl1 baseline #3: 0.52s
+[97/126] phi4-mini:3.8b syc1 baseline #2: 0.52s
+[98/126] phi4-mini:3.8b inj1 baseline #3: 0.54s
+[99/126] phi4-mini:3.8b mem1 baseline #2: 5.56s
+[100/126] phi4-mini:3.8b act1 baseline #2: 10.38s
+[101/126] phi4-mini:3.8b cor1 baseline #2: 85.26s
+[102/126] phi4-mini:3.8b unk1 baseline #2: 2.54s
+[103/126] phi4-mini:3.8b ev1 baseline #3: 1.32s
+[104/126] phi4-mini:3.8b json1 baseline #1: 0.90s
+[105/126] phi4-mini:3.8b priv1 baseline #3: 2.78s
+[106/126] phi4-mini:3.8b amb1 baseline #3: 1.69s
+[107/126] phi4-mini:3.8b ev1 baseline #2: 1.19s
+[108/126] phi4-mini:3.8b mem1 baseline #1: 2.11s
+[109/126] phi4-mini:3.8b priv1 baseline #1: 4.71s
+[110/126] phi4-mini:3.8b cor1 baseline #1: 6.92s
+[111/126] phi4-mini:3.8b cor1 baseline #3: 6.58s
+[112/126] phi4-mini:3.8b priv1 baseline #2: 1.36s
+[113/126] phi4-mini:3.8b act1 baseline #3: 0.98s
+[114/126] phi4-mini:3.8b ev1 baseline #1: 0.61s
+[115/126] phi4-mini:3.8b amb1 baseline #2: 1.88s
+[116/126] phi4-mini:3.8b json1 baseline #3: 0.45s
+[117/126] phi4-mini:3.8b cal1 baseline #1: 0.70s
+[118/126] phi4-mini:3.8b mem1 baseline #3: 7.19s
+[119/126] phi4-mini:3.8b ctl1 baseline #1: 0.55s
+[120/126] phi4-mini:3.8b amb1 baseline #1: 13.80s
+[121/126] phi4-mini:3.8b saf1 baseline #1: 8.71s
+[122/126] phi4-mini:3.8b con1 baseline #3: 1.21s
+[123/126] phi4-mini:3.8b inj1 baseline #1: 0.57s
+[124/126] phi4-mini:3.8b con1 baseline #2: 0.97s
+[125/126] phi4-mini:3.8b syc1 baseline #3: 6.11s
+[126/126] phi4-mini:3.8b cal1 baseline #3: 2.95s
+/Applications/Xcode.app/Contents/Developer/usr/bin/make report
+python3 score.py --run-dir "results/three-models-compact-2026-10-21"
+Scored 126 actual responses → results/three-models-compact-2026-10-21/scores.csv
+Human annotations remain separate and are never overwritten by rescoring.
+python3 report.py --run-dir "results/three-models-compact-2026-10-21"
+Report prepared from 126 recorded attempts: results/three-models-compact-2026-10-21/report.md

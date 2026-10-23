@@ -1,0 +1,30 @@
+{
+  "status": "complete",
+  "planned_jobs": 36,
+  "completed_jobs": 36,
+  "created_at": "2026-10-23T12:20:10.148788+00:00",
+  "config": {
+    "repeats": 3,
+    "temperature": 0.5,
+    "num_predict": 512,
+    "num_ctx": 4096,
+    "seed": 20261021,
+    "condition": "baseline",
+    "quick": true,
+    "prompt_count": 12,
+    "suite_sha256": "ae58e3a0c61972d5a9a3bc38805e4b62b26799bd6fb54b79c6088eca1e249be7",
+    "scorer_version": "3.0-simple",
+    "ollama_version": "0.32.0",
+    "models": [
+      {
+        "name": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+        "digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a"
+      }
+    ],
+    "source_sha256": {
+      "evaluate.py": "d19a48742772ac1d44d5021a6414e8aeaa85d368217ab3f9a5b854e78a45053c",
+      "metrics.py": "dfcbbd4ca786f8501ea41a33664a6fccd9b39c979ef0efa178320d23265eb79f",
+      "backends.py": "811129d1e5870b18c7df319da55a71d1c449406c351582808fd122c74984e21b"
+    }
+  }
+}

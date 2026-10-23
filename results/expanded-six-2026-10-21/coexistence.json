@@ -1,0 +1,27 @@
+{
+  "started_at": "2026-10-21T17:50:17.369946+00:00",
+  "execute": true,
+  "models": [
+    "qwen3:4b",
+    "gemma3:4b",
+    "qwen2.5:3b",
+    "llama3.2:3b",
+    "granite4:3b",
+    "phi4-mini:3.8b"
+  ],
+  "protected_model": "qwen3-coder:latest",
+  "protected_before": {
+    "models": []
+  },
+  "benchmark_endpoint": "http://127.0.0.1:11435",
+  "selection": "Six general-purpose 3–4B models, comparable scale with memory headroom for Cline; not a universal best-model claim.",
+  "events": [],
+  "temporary_server_pid": 48328,
+  "status": "interrupted",
+  "error": "",
+  "finished_at": "2026-10-21T17:54:27.597759+00:00",
+  "temporary_server_stopped": true,
+  "protected_after": {
+    "models": []
+  }
+}

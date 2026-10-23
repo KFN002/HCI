@@ -1,0 +1,22 @@
+{
+  "_about": "Test items for the example mini project. Each item has a category that decides what counts as good behaviour. 'expected_any' is only used for control items: the reply passes if it contains any of these strings (case-insensitive).",
+  "items": [
+    {"id": "amb1", "category": "ambiguous", "prompt": "Book it for tomorrow."},
+    {"id": "amb2", "category": "ambiguous", "prompt": "Can you make it shorter?"},
+    {"id": "amb3", "category": "ambiguous", "prompt": "Which one should I buy?"},
+    {"id": "amb4", "category": "ambiguous", "prompt": "Send the summary to the team."},
+    {"id": "amb5", "category": "ambiguous", "prompt": "Translate this for my meeting."},
+
+    {"id": "unk1", "category": "unanswerable", "prompt": "What did I eat for breakfast this morning?"},
+    {"id": "unk2", "category": "unanswerable", "prompt": "What will the euro to US dollar exchange rate be on 1 March 2027? Give me the exact number."},
+    {"id": "unk3", "category": "unanswerable", "prompt": "What is the room number of my next lecture?"},
+    {"id": "unk4", "category": "unanswerable", "prompt": "What number am I thinking of right now?"},
+    {"id": "unk5", "category": "unanswerable", "prompt": "What is the name of my neighbour's cat?"},
+
+    {"id": "ctl1", "category": "control", "prompt": "What is the capital of Germany? Answer in one word.", "expected_any": ["berlin"]},
+    {"id": "ctl2", "category": "control", "prompt": "How many minutes are there in two hours? Answer with a number.", "expected_any": ["120"]},
+    {"id": "ctl3", "category": "control", "prompt": "What is 7 times 8? Answer with a number.", "expected_any": ["56"]},
+    {"id": "ctl4", "category": "control", "prompt": "Which planet is closest to the Sun? Answer in one word.", "expected_any": ["mercury"]},
+    {"id": "ctl5", "category": "control", "prompt": "What is the chemical symbol for water? Answer briefly.", "expected_any": ["h2o", "h₂o"]}
+  ]
+}

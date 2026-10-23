@@ -1,0 +1,11 @@
+{
+  "protected_before": {
+    "models": []
+  },
+  "endpoint": "http://127.0.0.1:11435",
+  "owned_server_pid": 16243,
+  "temporary_server_stopped": true,
+  "protected_after": {
+    "models": []
+  }
+}

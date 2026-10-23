@@ -1,0 +1,326 @@
+[
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "cre1",
+    "category": "creative_formatting",
+    "repeat": 3,
+    "seed": 975571545,
+    "row_id": "dffb90ad264438f72bea2777"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "inj2",
+    "category": "prompt_injection",
+    "repeat": 2,
+    "seed": 540886180,
+    "row_id": "8a3e3a6e1a9a16fd7572634d"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "priv2",
+    "category": "security_boundaries",
+    "repeat": 2,
+    "seed": 378025344,
+    "row_id": "b1d1704f689b6994137a00ca"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "neg2",
+    "category": "negative_constraints",
+    "repeat": 1,
+    "seed": 1174273668,
+    "row_id": "557d2fb0b2d4bfe4dbed668c"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "amb2",
+    "category": "ambiguity",
+    "repeat": 3,
+    "seed": 946082557,
+    "row_id": "bed22b398f8cf10e02c35ce3"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "priv2",
+    "category": "security_boundaries",
+    "repeat": 1,
+    "seed": 1969949604,
+    "row_id": "8459ebc5774f4dcd4dc2ad42"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "sen1",
+    "category": "sensitive_topics",
+    "repeat": 3,
+    "seed": 414325105,
+    "row_id": "03ed46213c68bc746cc8d81f"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "neg1",
+    "category": "negative_constraints",
+    "repeat": 3,
+    "seed": 2007686937,
+    "row_id": "30717214b80209f98ca9683e"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "amb1",
+    "category": "ambiguity",
+    "repeat": 3,
+    "seed": 725029174,
+    "row_id": "c495d134d42dd5bbe29026df"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "neg2",
+    "category": "negative_constraints",
+    "repeat": 3,
+    "seed": 790273547,
+    "row_id": "b644b8ea70326ae3c75b53dd"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "sen1",
+    "category": "sensitive_topics",
+    "repeat": 1,
+    "seed": 902735213,
+    "row_id": "41fd22b8b5ccd1434acb602e"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "amb2",
+    "category": "ambiguity",
+    "repeat": 2,
+    "seed": 22411608,
+    "row_id": "12604893ecf9a5a9299bfc08"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "inj1",
+    "category": "prompt_injection",
+    "repeat": 2,
+    "seed": 409866057,
+    "row_id": "a4ce24e7dd99b54934980072"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "inj2",
+    "category": "prompt_injection",
+    "repeat": 3,
+    "seed": 1053426997,
+    "row_id": "050a4888690aaf594aa2f7f6"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "neg1",
+    "category": "negative_constraints",
+    "repeat": 1,
+    "seed": 647581411,
+    "row_id": "66277a848493669c6c90a949"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "inj1",
+    "category": "prompt_injection",
+    "repeat": 3,
+    "seed": 1686037415,
+    "row_id": "aca6027ade9085d29110cd78"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "amb2",
+    "category": "ambiguity",
+    "repeat": 1,
+    "seed": 402822851,
+    "row_id": "5649da868364bab291fcc88c"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "cre2",
+    "category": "creative_formatting",
+    "repeat": 2,
+    "seed": 2108542027,
+    "row_id": "d725a773ff0b71d85609331e"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "priv1",
+    "category": "security_boundaries",
+    "repeat": 1,
+    "seed": 1980934612,
+    "row_id": "908c0ef970abb341c9946b2e"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "priv1",
+    "category": "security_boundaries",
+    "repeat": 2,
+    "seed": 53379953,
+    "row_id": "15ef34a4dee32289f90371a2"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "amb1",
+    "category": "ambiguity",
+    "repeat": 2,
+    "seed": 1637003901,
+    "row_id": "4b8cb91cf47d5acdb8ff810b"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "priv2",
+    "category": "security_boundaries",
+    "repeat": 3,
+    "seed": 2075866031,
+    "row_id": "faa50159c77a5ac3c152c280"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "cre2",
+    "category": "creative_formatting",
+    "repeat": 1,
+    "seed": 610424880,
+    "row_id": "97b8dd3ab4e26b9a7fa362b6"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "sen2",
+    "category": "sensitive_topics",
+    "repeat": 1,
+    "seed": 1219120942,
+    "row_id": "a6fa91589e306204c7d82f06"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "sen1",
+    "category": "sensitive_topics",
+    "repeat": 2,
+    "seed": 472485745,
+    "row_id": "92b6c3d484b0bd8a00b2368d"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "inj1",
+    "category": "prompt_injection",
+    "repeat": 1,
+    "seed": 2121666213,
+    "row_id": "7019497e9c240e0e43abf504"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "inj2",
+    "category": "prompt_injection",
+    "repeat": 1,
+    "seed": 847896971,
+    "row_id": "47cb6903575a3866a2a774b0"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "neg1",
+    "category": "negative_constraints",
+    "repeat": 2,
+    "seed": 1985217028,
+    "row_id": "388dbe27e2a5fb2f298840f1"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "cre2",
+    "category": "creative_formatting",
+    "repeat": 3,
+    "seed": 304354072,
+    "row_id": "a0fc7bfa8e07b1e134bc9dc9"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "priv1",
+    "category": "security_boundaries",
+    "repeat": 3,
+    "seed": 1864483420,
+    "row_id": "2e5f58e83c1e9118399862e8"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "neg2",
+    "category": "negative_constraints",
+    "repeat": 2,
+    "seed": 892555581,
+    "row_id": "cdca0b58086aeadd9a2d49b1"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "cre1",
+    "category": "creative_formatting",
+    "repeat": 2,
+    "seed": 1358631527,
+    "row_id": "e4d730cac51802678e6d5e32"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "sen2",
+    "category": "sensitive_topics",
+    "repeat": 3,
+    "seed": 503456570,
+    "row_id": "2bf6ac6de530f072afec68d2"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "amb1",
+    "category": "ambiguity",
+    "repeat": 1,
+    "seed": 1328521872,
+    "row_id": "3f6b8f34f0438af5bc06143f"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "cre1",
+    "category": "creative_formatting",
+    "repeat": 1,
+    "seed": 301850875,
+    "row_id": "996a193b52d89a8324a65447"
+  },
+  {
+    "model": "hf.co/unsloth/Qwen3.8-27B-GGUF:Q4_K_M",
+    "model_digest": "603ce507f0fd49973f1121d8765eb5a60ae4687931699f1df38b6968faca472a",
+    "item_id": "sen2",
+    "category": "sensitive_topics",
+    "repeat": 2,
+    "seed": 195077123,
+    "row_id": "397a207c65bea7b7b6ce64c5"
+  }
+]

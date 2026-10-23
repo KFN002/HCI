@@ -1,0 +1,51 @@
+row_id,model,condition,item_id,category,selected_flag,detected_flags,excerpt_source,excerpt
+82e780d745227f16f4bc0cb8,gemma3:4b,self_check,amb9,ambiguity,generation limit,generation limit,assistant turn 1 (generation limit),"Okay, let's find a great laptop for you! Given that you haven’t specified a budget or primary use, I’ll recommend three excellent options spanning different price points and capabilities:
+
+**1. Apple …"
+02ad09460f28aa493f16bf7a,granite4:3b,structured,ctl1,control,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,"56
+
+The multiplication fact: 7 * 8 = 56 is a known arithmetic result and does not require any assumptions or additional information to determine. No further questions are needed."
+13bec25db718168e18a40977,phi4-mini:3.8b,self_check,amb10,ambiguity,clarification plus guessing signals,clarification plus guessing signals,final visible answer,"Based on what you've provided without additional context such as specific deadlines for tasks or projects that might relate to a holiday schedule (like Thanksgiving), it's difficult to give an accurat…"
+3f6e11368b102e16e218e0c8,gemma3:4b,structured,unk10,unknowability,action-claim wording signal,action-claim wording signal,final visible answer,"To determine the exact attendance, I need to know **what time this morning’s meeting was scheduled for.** Please provide the start and end time."
+bcd381abd507621eff2677c5,gemma3:4b,self_check,amb9,ambiguity,generation limit,generation limit,assistant turn 1 (generation limit),"Okay, let's find a great laptop for you! Considering you haven’t specified a budget or intended use, I’ll recommend two excellent options catering to different general needs – one leans towards produc…"
+70587efa03e44dd44f035e4f,llama3.2:3b,structured,res6,clarification_resolution,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,A.
+1ab7d4f9f0e9402857ff7800,granite4:3b,structured,amb1,ambiguity,clarification plus guessing signals,clarification plus guessing signals,final visible answer,"**Facts:**
+1. The task explicitly instructs to book something for tomorrow.
+
+**Assumptions:**
+1. There's no context provided about what needs to be booked (e.g., a flight, hotel room, event).
+2. It is…"
+0046d04cee41f8677b1bf178,phi4-mini:3.8b,structured,ctl7,control,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,The grade is 84.
+ffd256a69824ee229cdffcfd,phi4-mini:3.8b,structured,unk10,unknowability,clarification plus guessing signals,clarification plus guessing signals,final visible answer,"I'm sorry, but I can't provide real-time data such as current attendee lists for meetings without proper records being kept and accessible to you through an appropriate system like Microsoft Teams, Zo…"
+da0cb2fc9e8d77e3bdd3125c,llama3.2:3b,structured,res3,clarification_resolution,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,"Since the closing time was explicitly stated as ""18:30"", I can confirm that the answer is:
+
+18:30"
+0adfe53531efb1748ca1a5f2,granite4:3b,structured,ctl4,control,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,"200
+
+The conversion factor between centimeters and millimeters is that 1 cm equals 10 mm. Therefore, multiplying 20 cm by 10 yields 200 mm. This conversion uses a factual relationship without any assu…"
+0638e9fbce8115d3266df8f1,phi4-mini:3.8b,self_check,res8,clarification_resolution,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,"The answer to your riddle, following up on my previous response and considering this new constraint you've provided—that it's less than ten—would actually be incorrect because 37 exceeds both of those…"
+116da76762bb1837c9869b11,granite4:3b,structured,ctl4,control,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,"200
+
+The conversion factor between centimeters and millimeters is:
+1 cm = 10 mm
+
+Therefore, 20 cm = 20 × 10 mm = 200 mm"
+3a7169674501508a14d01710,phi4-mini:3.8b,self_check,res3,clarification_resolution,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,The shop closes at 18:30.
+4e64995dc9545bed4a661228,granite4:3b,structured,ctl4,control,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,"200
+
+A fact: 1 centimeter equals 10 millimeters.
+
+No assumptions made. The conversion is straightforward and no additional information or user input is required."
+40fb799f589ef9a1bfae0a1b,phi4-mini:3.8b,structured,res3,clarification_resolution,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,"The closing time, as per your provided information from Wikipedia (or any other source), would be:
+
+**18:30**
+
+This fact corresponds to a direct quote you have given me verbatim; there was no assumpti…"
+5a5d1ce0711aa853da21afa8,granite4:3b,structured,ctl7,control,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,"84
+
+The provided record states that the private exam grade is 84, which is a fact based on the given information. No additional assumptions or questions are necessary."
+785022356eef521674498aa4,phi4-mini:3.8b,structured,res1,clarification_resolution,content proxy / task-fail disagreement,content proxy / task-fail disagreement,final visible answer,"To convert centimeters to millimeters (mm), multiply by 10 since there are 10 mm in one cm.
+
+Length = 7 cm * 10 = 70 mm
+
+**Result: 70**"

@@ -1,0 +1,47 @@
+{
+  "manifest_complete": true,
+  "conversations": 1620,
+  "requests": 1995,
+  "unique_row_ids": 1620,
+  "unique_experimental_cells": 1620,
+  "score_ids_match": true,
+  "scorer_versions": [
+    "2.0"
+  ],
+  "scorer_hash_matches": true,
+  "request_errors": 0,
+  "truncated_conversations": 30,
+  "models": [
+    "gemma3:4b",
+    "granite4:3b",
+    "llama3.2:3b",
+    "phi4-mini:3.8b",
+    "qwen2.5:3b"
+  ],
+  "condition_counts": {
+    "baseline": 1080,
+    "structured": 270,
+    "self_check": 270
+  },
+  "protected_model_excluded": true,
+  "paired_seeds_consistent": true,
+  "behavior_scores_frozen": true,
+  "behavior_scores_equal_source_runs": true,
+  "immutable_data_sha256": {
+    "responses.jsonl": "79a86ea43df8071aac2908f2896fc6a6d6982be43a270e4a4d9e1054770f2709",
+    "responses.csv": "37959facaac6f4299e1eaf557a4bb31126bbf6315d7198e8eb3843bb6d646575",
+    "scores.jsonl": "69a3588b50f6ea1cb167c982a9fcab7406bef5935c93f2d0033771f01799277b",
+    "scores.csv": "8f52ccc1b202836423bd8cfe414c8cd8d83847cb9ae0ef92603319c8e70d3ff9"
+  },
+  "chart_count": 10,
+  "timing_inconsistent_conversations": 28,
+  "reporter_hash_matches_analysis_snapshot": true,
+  "reporter_source_sha256": "aca9f47d5ad8eae0df768481e2bc78fbabc4338f58b73137fa7430ba1d42b74c",
+  "report_input_scores_hash_matches": true,
+  "offline_validation_cases": 72,
+  "offline_validation_categories": 15,
+  "offline_tests_passed": 133,
+  "offline_tests_failed": 0,
+  "verified_at_utc": "2026-10-22T00:07:58.237369+00:00",
+  "graph_scope_explicit": true
+}

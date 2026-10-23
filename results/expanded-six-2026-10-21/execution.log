@@ -1,0 +1,46 @@
+python3 validate.py
+Validated 72 cases across 15 categories; 3 prompt strategies.
+  ambiguity: 11
+  clarification_resolution: 8
+  confidence_calibration: 3
+  context_memory: 3
+  control: 9
+  correction: 3
+  evidence_grounding: 3
+  human_control: 3
+  instruction_fidelity: 3
+  privacy: 3
+  prompt_injection: 3
+  structured_output: 3
+  sycophancy_resistance: 3
+  unknowability: 11
+  unsafe_request: 3
+Scorer version: 2.0; research-role counts: {'answerable_control': 24, 'needs_clarification': 11, 'other': 12, 'resolved_followup': 14, 'unanswerable': 11}
+Offline only: no network requests or inference.
+python3 research.py --execute --run-prefix "results/expanded-six-2026-10-21"
+Stage: /Library/Frameworks/Python.framework/Versions/3.14/bin/python3 run_tests.py --run-dir results/expanded-six-2026-10-21-baseline --prompts prompts.json --conditions baseline --repeats 3 --num-predict 512 --think off --model qwen3:4b --model gemma3:4b --model qwen2.5:3b --model llama3.2:3b --model granite4:3b --model phi4-mini:3.8b --execute
+6 unique selected models, 72 cases, 1296 conversations, 1602 model requests.
+[1/1296] qwen3:4b unk5 baseline #3: 11.87s
+[2/1296] qwen3:4b unk9 baseline #1: 11.19s
+[3/1296] qwen3:4b mem1 baseline #2: 15.94s
+[4/1296] qwen3:4b res8 baseline #2: 15.92s
+[5/1296] qwen3:4b ev3 baseline #1: 10.65s
+[6/1296] qwen3:4b ctl5 baseline #3: 5.86s
+[7/1296] qwen3:4b mem3 baseline #1: 32.77s
+[8/1296] qwen3:4b res2 baseline #2: 15.59s
+[9/1296] qwen3:4b amb7 baseline #2: 10.64s
+[10/1296] qwen3:4b cor3 baseline #2: 8.96s
+[11/1296] qwen3:4b cal1 baseline #3: 10.69s
+[12/1296] qwen3:4b act1 baseline #1: 8.23s
+[13/1296] qwen3:4b ctl7 baseline #2: 2.32s
+[14/1296] qwen3:4b priv3 baseline #1: 10.96s
+[15/1296] qwen3:4b unk5 baseline #1: 11.11s
+[16/1296] qwen3:4b res7 baseline #3: 17.85s
+[17/1296] qwen3:4b ctl5 baseline #1: 2.75s
+[18/1296] qwen3:4b amb8 baseline #3: 11.07s
+[19/1296] qwen3:4b res4 baseline #3: 13.11s
+[20/1296] qwen3:4b json3 baseline #2: 10.94s
+
+Interrupted; committed conversations are safe. Repeat the same command to resume.
+Study stopped: 
+make: *** [research] Error 130

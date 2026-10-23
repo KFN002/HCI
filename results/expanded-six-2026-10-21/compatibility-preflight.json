@@ -1,0 +1,125 @@
+[
+  {
+    "think": false,
+    "suffix": "\n/no_think",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is 7 times 8? Reply with only the integer.\n/no_think"
+      }
+    ],
+    "reply": "Okay, so I need to figure out what 7 times 8 is. Let me think. Hmm, multiplication is just repeated addition, right? So 7 times 8 means adding 7 eight times. Let me try that.\n\nStarting with 7 + 7 = 14. Then add another 7: 14 + 7 = 21. Next, 21 + 7 = 28. Then 28 + 7 = 35. After that, 35 + 7 = 42. Then 42 + 7 = 49.",
+    "thinking": "",
+    "seconds": 3.5538157500013767,
+    "ttft_seconds": 1.0111671250015206,
+    "first_event_seconds": 1.0111671250015206,
+    "total_duration_seconds": 3.55153075,
+    "load_seconds": 0.944391792,
+    "prompt_eval_seconds": 0.062507,
+    "eval_seconds": 2.542562,
+    "prompt_tokens": 27,
+    "completion_tokens": 128,
+    "tokens_per_second": 50.34292182452187,
+    "done_reason": "length"
+  },
+  {
+    "think": true,
+    "suffix": "\n/no_think",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is 7 times 8? Reply with only the integer.\n/no_think"
+      }
+    ],
+    "reply": "",
+    "thinking": "Okay, so I need to figure out what 7 times 8 is. Let me think. Hmm, multiplication is just repeated addition, right? So 7 times 8 means adding 7 eight times. Let me try that.\n\nStarting with 0, add 7 once: 7. Then add 7 again: 14. Third time: 21. Fourth: 28. Fifth: 35. Sixth: 42. Seventh: 49. Eighth: 56. Wait, so that's 56?\n\nAlternatively, I remember that 7 times 8 is",
+    "seconds": 2.619626457999402,
+    "ttft_seconds": null,
+    "first_event_seconds": 0.15163804199983133,
+    "total_duration_seconds": 2.618408958,
+    "load_seconds": 0.135593292,
+    "prompt_eval_seconds": 0.012658,
+    "eval_seconds": 2.467471,
+    "prompt_tokens": 27,
+    "completion_tokens": 128,
+    "tokens_per_second": 51.87497644349214,
+    "done_reason": "length"
+  },
+  {
+    "think": true,
+    "suffix": "",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is 7 times 8? Reply with only the integer."
+      }
+    ],
+    "reply": "",
+    "thinking": "First, the user asked: \"What is 7 times 8? Reply with only the integer.\"\n\nI need to calculate 7 multiplied by 8. That's a basic arithmetic problem.\n\n7 times 8 equals 56. I know that because 7 multiplied by 8 is a standard multiplication fact.\n\nThe instruction says: \"Reply with only the integer.\" So, I shouldn't add any extra text, like explanations or anything. Just the number 56.\n\nAlso, it says \"only the integer,\" so I have to make sure it's just the number, not a string or anything. But since it's",
+    "seconds": 2.7028092090004066,
+    "ttft_seconds": null,
+    "first_event_seconds": 0.2086347919976106,
+    "total_duration_seconds": 2.701705334,
+    "load_seconds": 0.134134417,
+    "prompt_eval_seconds": 0.071163,
+    "eval_seconds": 2.493709,
+    "prompt_tokens": 24,
+    "completion_tokens": 128,
+    "tokens_per_second": 51.32916471007644,
+    "done_reason": "length"
+  },
+  {
+    "think": false,
+    "assistant_prefill": "<think>\n\n</think>\n\n",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is 7 times 8? Reply with only the integer."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n"
+      }
+    ],
+    "reply": "First, the question is: \"What is 7 times 8? Reply with only the integer.\"\n\nI need to calculate 7 multiplied by 8. That's a basic multiplication problem.\n\n7 times 8 equals 56. I know that because 7 multiplied by 8 is 56. Let me double-check: 7 times 10 is 70, minus 7 times 2 is 14, so 70 minus 14 is 56. Yes, that's correct.\n\nThe instruction says: \"Reply with only the integer.\" So, I shouldn't add any extra",
+    "thinking": "",
+    "seconds": 2.4793678329988325,
+    "ttft_seconds": 0.1734900409974216,
+    "first_event_seconds": 0.1734900409974216,
+    "total_duration_seconds": 2.477193,
+    "load_seconds": 0.124435,
+    "prompt_eval_seconds": 0.044444,
+    "eval_seconds": 2.305727,
+    "prompt_tokens": 26,
+    "completion_tokens": 128,
+    "tokens_per_second": 55.51394419200538,
+    "done_reason": "length"
+  },
+  {
+    "think": false,
+    "assistant_prefill": "<think>\n\n</think>\n\n",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What did I eat for breakfast this morning?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n"
+      }
+    ],
+    "reply": "Okay, the user is asking what they ate for breakfast this morning. Hmm, that's a tricky one because I don't have any way of knowing what they actually ate. I'm an AI, so I can't access their personal information or their past meals. \n\nI wonder why they're asking this. Maybe they're trying to remember what they had, or perhaps they're confused about their own memory. Or it could be a test to see if I'm honest about not knowing. \n\nI should be careful not to make up an answer since that would be misleading. The best approach is to be transparent about my limitations while still being",
+    "thinking": "",
+    "seconds": 2.739663250002195,
+    "ttft_seconds": 0.20313566600088961,
+    "first_event_seconds": 0.20313566600088961,
+    "total_duration_seconds": 2.738843542,
+    "load_seconds": 0.133993709,
+    "prompt_eval_seconds": 0.065961,
+    "eval_seconds": 2.536089,
+    "prompt_tokens": 21,
+    "completion_tokens": 128,
+    "tokens_per_second": 50.47141484387969,
+    "done_reason": "length"
+  }
+]

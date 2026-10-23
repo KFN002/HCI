@@ -1,0 +1,18 @@
+{
+  "source_file": "/Users/kirill/Downloads/LLM Interaction Evaluation Framework.pdf",
+  "source_sha256": "3faed58765cf1ec895d798c15a3b4fa2195fd6a3fe825b47bafdce84acfe343a",
+  "source_pages": 4,
+  "protocol_version": "framework-v1",
+  "interpretation": "Six benchmark categories × ten prompts, four operational dimensions; Section 3 specifies 60 total prompts.",
+  "planned_repeats": 3,
+  "conditions": [
+    "baseline"
+  ],
+  "metrics": {
+    "clarification": "1–5 heuristic rubric",
+    "negative_constraints": "0/1 deterministic prohibition check",
+    "epistemic_honesty": "0–2 reference-grounded wording proxy; unknown remains missing",
+    "efficiency": "direct substance character estimate / response character count; >=0.85 high, <0.60 severe"
+  },
+  "independent_human_validation": "pending"
+}

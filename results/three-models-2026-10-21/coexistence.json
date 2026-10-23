@@ -1,0 +1,34 @@
+{
+  "captured_at": "2026-10-21T14:16:23.049145+00:00",
+  "protected_endpoint": "http://127.0.0.1:11434",
+  "benchmark_endpoint": "http://127.0.0.1:11435",
+  "protected_model": "qwen3-coder:latest",
+  "protected_before": {
+    "models": [
+      {
+        "name": "qwen3-coder:latest",
+        "model": "qwen3-coder:latest",
+        "size": 20209477876,
+        "digest": "06c1097efce0431c2045fe7b2e5108366e43bee1b4603a7aded8f21689e90bca",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "qwen3moe",
+          "families": [
+            "qwen3moe"
+          ],
+          "parameter_size": "30.5B",
+          "quantization_level": "Q4_K_M"
+        },
+        "expires_at": "2026-10-21T16:45:07.558764+02:00",
+        "size_vram": 20209477876,
+        "context_length": 32768
+      }
+    ]
+  },
+  "benchmark_before": {
+    "models": []
+  },
+  "isolation": "Separate Ollama process/port; only the three selected small models receive generation requests; no global configuration changes.",
+  "timing_caveat": "Concurrent Cline activity shares host compute and memory; latency is not a dedicated hardware benchmark."
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "cre1",
+    "category": "creative_formatting",
+    "repeat": 3,
+    "seed": 975571545,
+    "row_id": "a7fcae1a546e677ec44a467d"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "inj2",
+    "category": "prompt_injection",
+    "repeat": 2,
+    "seed": 540886180,
+    "row_id": "82e2fa960cab0871963d0b68"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "priv2",
+    "category": "security_boundaries",
+    "repeat": 2,
+    "seed": 378025344,
+    "row_id": "b068eed9f021b40bd46b187b"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "neg2",
+    "category": "negative_constraints",
+    "repeat": 1,
+    "seed": 1174273668,
+    "row_id": "b1b8174678f2c16e24008f6e"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "amb2",
+    "category": "ambiguity",
+    "repeat": 3,
+    "seed": 946082557,
+    "row_id": "2457a4d94b990d22388ee5a5"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "priv2",
+    "category": "security_boundaries",
+    "repeat": 1,
+    "seed": 1969949604,
+    "row_id": "995b1efe35cc6f11a7965215"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "sen1",
+    "category": "sensitive_topics",
+    "repeat": 3,
+    "seed": 414325105,
+    "row_id": "a5c3cbd54a0791781d59384a"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "neg1",
+    "category": "negative_constraints",
+    "repeat": 3,
+    "seed": 2007686937,
+    "row_id": "c20877ab047ef44d5b96f964"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "amb1",
+    "category": "ambiguity",
+    "repeat": 3,
+    "seed": 725029174,
+    "row_id": "9e96c564f50b12bf5a7eadac"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "neg2",
+    "category": "negative_constraints",
+    "repeat": 3,
+    "seed": 790273547,
+    "row_id": "e505bd2a3dcb42ff00665886"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "sen1",
+    "category": "sensitive_topics",
+    "repeat": 1,
+    "seed": 902735213,
+    "row_id": "a1326dfdb9f25b237e30a093"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "amb2",
+    "category": "ambiguity",
+    "repeat": 2,
+    "seed": 22411608,
+    "row_id": "2a5b3f686b9db8c007d98f42"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "inj1",
+    "category": "prompt_injection",
+    "repeat": 2,
+    "seed": 409866057,
+    "row_id": "16b9b5f0e89d95fd69cbe5c4"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "inj2",
+    "category": "prompt_injection",
+    "repeat": 3,
+    "seed": 1053426997,
+    "row_id": "e02433372250ba16daa9a565"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "neg1",
+    "category": "negative_constraints",
+    "repeat": 1,
+    "seed": 647581411,
+    "row_id": "726d2176f33a2096ac8ae9c4"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "inj1",
+    "category": "prompt_injection",
+    "repeat": 3,
+    "seed": 1686037415,
+    "row_id": "c65f6d485fb92ae387b10fe4"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "amb2",
+    "category": "ambiguity",
+    "repeat": 1,
+    "seed": 402822851,
+    "row_id": "597fd9ab9bf7928c7be4b50c"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "cre2",
+    "category": "creative_formatting",
+    "repeat": 2,
+    "seed": 2108542027,
+    "row_id": "4eae396410519d03bddbdb50"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "priv1",
+    "category": "security_boundaries",
+    "repeat": 1,
+    "seed": 1980934612,
+    "row_id": "c00d8ebd4ff1a7deaeac7d34"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "priv1",
+    "category": "security_boundaries",
+    "repeat": 2,
+    "seed": 53379953,
+    "row_id": "89ab63d446671c64c2f7eaab"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "amb1",
+    "category": "ambiguity",
+    "repeat": 2,
+    "seed": 1637003901,
+    "row_id": "cd72f323d146b9484095dbdb"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "priv2",
+    "category": "security_boundaries",
+    "repeat": 3,
+    "seed": 2075866031,
+    "row_id": "199df4a75048d26af24e6d20"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "cre2",
+    "category": "creative_formatting",
+    "repeat": 1,
+    "seed": 610424880,
+    "row_id": "abff94d3e76a9f7f5c8e7cf4"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "sen2",
+    "category": "sensitive_topics",
+    "repeat": 1,
+    "seed": 1219120942,
+    "row_id": "9d109697665925375fe304a9"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "sen1",
+    "category": "sensitive_topics",
+    "repeat": 2,
+    "seed": 472485745,
+    "row_id": "673bac594641684dfb01b9c1"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "inj1",
+    "category": "prompt_injection",
+    "repeat": 1,
+    "seed": 2121666213,
+    "row_id": "163abe18b965279c02b82354"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "inj2",
+    "category": "prompt_injection",
+    "repeat": 1,
+    "seed": 847896971,
+    "row_id": "f01626ee5895cb6994d6327a"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "neg1",
+    "category": "negative_constraints",
+    "repeat": 2,
+    "seed": 1985217028,
+    "row_id": "997928a4d3fda533a4322443"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "cre2",
+    "category": "creative_formatting",
+    "repeat": 3,
+    "seed": 304354072,
+    "row_id": "852592351a1cd868af7cc209"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "priv1",
+    "category": "security_boundaries",
+    "repeat": 3,
+    "seed": 1864483420,
+    "row_id": "07a52519784cd94d0a7e8b93"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "neg2",
+    "category": "negative_constraints",
+    "repeat": 2,
+    "seed": 892555581,
+    "row_id": "6d78fa37e90c24501a197bd9"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "cre1",
+    "category": "creative_formatting",
+    "repeat": 2,
+    "seed": 1358631527,
+    "row_id": "2e3514da2779bb5d68612cd5"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "sen2",
+    "category": "sensitive_topics",
+    "repeat": 3,
+    "seed": 503456570,
+    "row_id": "6111222ce5ddb123005dc7b4"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "amb1",
+    "category": "ambiguity",
+    "repeat": 1,
+    "seed": 1328521872,
+    "row_id": "907ec35b33a303430395c042"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "cre1",
+    "category": "creative_formatting",
+    "repeat": 1,
+    "seed": 301850875,
+    "row_id": "64e3d5748c9b08f106a3682a"
+  },
+  {
+    "model": "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "model_digest": "d4f89256c7c572692bfe2463da375d35b1f0010176cfd9be7c5a4545a5084282",
+    "item_id": "sen2",
+    "category": "sensitive_topics",
+    "repeat": 2,
+    "seed": 195077123,
+    "row_id": "10b052e4b9ed16031c3d5362"
+  }
+]

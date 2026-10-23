@@ -1,0 +1,19 @@
+{
+  "selected_models": [
+    "gemma3:4b",
+    "hf.co/bartowski/thesby_Qwen2.5-VL-7B-NSFW-Caption-V3-GGUF:Q4_K_M",
+    "qwen2.5:3b"
+  ],
+  "selected_items": 12,
+  "repeats": 3,
+  "planned": 108,
+  "recorded": 108,
+  "errors": 0,
+  "truncations": 0,
+  "duplicate_cells": 0,
+  "source_hashes_verified": true,
+  "owned_servers_stopped": true,
+  "html_internal_links_valid": true,
+  "report_response_details": 228,
+  "independent_human_review": "pending"
+}

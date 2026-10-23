@@ -1,0 +1,1 @@
+row_id,model,model_digest,item_id,category,condition,repeat,seed,started_at,prompt,reply,thinking,seconds,ttft_seconds,final_turn_ttft_seconds,first_event_seconds,total_duration_seconds,load_seconds,prompt_eval_seconds,eval_seconds,prompt_tokens,completion_tokens,tokens_per_second,done_reason,truncated,completed_turns,expected_turns,error,turns

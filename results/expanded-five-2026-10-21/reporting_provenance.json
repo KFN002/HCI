@@ -1,0 +1,9 @@
+{
+  "reporter_source_sha256": "aca9f47d5ad8eae0df768481e2bc78fbabc4338f58b73137fa7430ba1d42b74c",
+  "scores_sha256": "69a3588b50f6ea1cb167c982a9fcab7406bef5935c93f2d0033771f01799277b",
+  "reported_at_utc": "2026-10-22T00:07:22.683686+00:00",
+  "timing_rule": "per-turn eval_seconds > total_duration_seconds + tolerance_seconds",
+  "tolerance_seconds": 0.05,
+  "raw_records_modified_by_report": false,
+  "behavioral_scores_modified_by_report": false
+}

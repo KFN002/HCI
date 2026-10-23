@@ -1,0 +1,42 @@
+[
+  {
+    "file": "charts/handoff_guessing.svg",
+    "title": "Handoff, guessing and unnecessary clarification"
+  },
+  {
+    "file": "charts/automatic_pass.svg",
+    "title": "Automatic task success"
+  },
+  {
+    "file": "charts/category_heatmap.svg",
+    "title": "Category heatmap"
+  },
+  {
+    "file": "charts/objective_heuristic.svg",
+    "title": "Objective and heuristic checks"
+  },
+  {
+    "file": "charts/latency.svg",
+    "title": "Latency distribution"
+  },
+  {
+    "file": "charts/throughput_verbosity.svg",
+    "title": "Throughput and verbosity"
+  },
+  {
+    "file": "charts/failures.svg",
+    "title": "Operational failures"
+  },
+  {
+    "file": "charts/content_format.svg",
+    "title": "Content and output contracts"
+  },
+  {
+    "file": "charts/strategy_delta.svg",
+    "title": "Matched prompt strategy effects"
+  },
+  {
+    "file": "charts/calibration_coverage.svg",
+    "title": "Confidence format coverage"
+  }
+]

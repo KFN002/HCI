@@ -1,0 +1,5 @@
+requests
+matplotlib
+# Only if you use these backends:
+# anthropic
+# openai

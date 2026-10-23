@@ -1,0 +1,40 @@
+{
+  "started_at": "2026-10-21T17:58:23.964920+00:00",
+  "execute": true,
+  "models": [
+    "gemma3:4b",
+    "qwen2.5:3b",
+    "llama3.2:3b",
+    "granite4:3b",
+    "phi4-mini:3.8b"
+  ],
+  "protected_model": "qwen3-coder:latest",
+  "protected_before": {
+    "models": []
+  },
+  "benchmark_endpoint": "http://127.0.0.1:11435",
+  "selection": "Five general-purpose 3–4B models, comparable answer budget and memory headroom for Cline. The installed qwen3:4b is thinking-only and excluded after a documented diagnostic pilot; not a universal best-model claim.",
+  "events": [
+    {
+      "at": "2026-10-21T22:42:31.539784+00:00",
+      "stage": "-baseline",
+      "protected": {
+        "models": []
+      }
+    },
+    {
+      "at": "2026-10-21T23:59:47.750549+00:00",
+      "stage": "-strategies",
+      "protected": {
+        "models": []
+      }
+    }
+  ],
+  "temporary_server_pid": 51981,
+  "status": "complete",
+  "finished_at": "2026-10-21T23:59:48.833193+00:00",
+  "temporary_server_stopped": true,
+  "protected_after": {
+    "models": []
+  }
+}

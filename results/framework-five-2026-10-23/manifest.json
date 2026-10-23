@@ -1,0 +1,44 @@
+{
+  "status": "partial",
+  "planned_jobs": 900,
+  "completed_jobs": 355,
+  "created_at": "2026-10-23T12:06:57.067994+00:00",
+  "config": {
+    "repeats": 3,
+    "temperature": 0.5,
+    "num_predict": 512,
+    "num_ctx": 4096,
+    "seed": 20261021,
+    "condition": "baseline",
+    "suite_sha256": "0cb9f86cbfc1c71ec699d9de59bcde26d6739981fc0818669f1b3849df3c1dd8",
+    "scorer_version": "3.0-simple",
+    "ollama_version": "0.32.0",
+    "models": [
+      {
+        "name": "gemma3:4b",
+        "digest": "a2af6cc3eb7fa8be8504abaf9b04e88f17a119ec3f04a3addf55f92841195f5a"
+      },
+      {
+        "name": "qwen2.5:3b",
+        "digest": "357c53fb659c5076de1d65ccb0b397446227b71a42be9d1603d46168015c9e4b"
+      },
+      {
+        "name": "llama3.2:3b",
+        "digest": "a80c4f17acd55265feec403c7aef86be0c25983ab279d83f3bcd3abbcb5b8b72"
+      },
+      {
+        "name": "granite4:3b",
+        "digest": "89962fcc75239ac434cdebceb6b7e0669397f92eaef9c487774b718bc36a3e5f"
+      },
+      {
+        "name": "phi4-mini:3.8b",
+        "digest": "78fad5d182a7c33065e153a5f8ba210754207ba9d91973f57dffa7f487363753"
+      }
+    ],
+    "source_sha256": {
+      "evaluate.py": "84bd838697a3822220e1dd0d2f119e0df05501c96d61bb77e69db7107c8aa98b",
+      "metrics.py": "dfcbbd4ca786f8501ea41a33664a6fccd9b39c979ef0efa178320d23265eb79f",
+      "backends.py": "811129d1e5870b18c7df319da55a71d1c449406c351582808fd122c74984e21b"
+    }
+  }
+}
